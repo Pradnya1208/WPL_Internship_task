@@ -1,0 +1,98 @@
+,dismissal,span,Dis,bwd,c_fie,c_wk,st,lbw,hw,ro,oth,no,ave,0s,batsman,match_type
+0,right-arm bowler,2011-2020,40,5,26,7,0,2,0,0,0,0,27.12,1,Virat Kohli,T20
+1,left-arm bowler,2012-2019,10,1,6,2,0,1,0,0,0,0,36.80,1,Virat Kohli,T20
+2,unknown arm,2012-2020,5,0,0,0,0,0,0,5,0,0,26.60,0,Virat Kohli,T20
+3,pace bowler,2011-2020,37,3,25,7,0,2,0,0,0,0,29.24,2,Virat Kohli,T20
+4,spin bowler,2011-2019,13,3,7,2,0,1,0,0,0,0,28.53,0,Virat Kohli,T20
+5,mixture/unknown,2012-2020,5,0,0,0,0,0,0,5,0,0,26.60,0,Virat Kohli,T20
+6,right-arm pace,2011-2020,30,2,20,6,0,2,0,0,0,0,27.56,1,Virat Kohli,T20
+7,right-arm spin,2011-2019,10,3,6,1,0,0,0,0,0,0,25.80,0,Virat Kohli,T20
+8,left-arm pace,2012-2019,7,1,5,1,0,0,0,0,0,0,36.42,1,Virat Kohli,T20
+9,left-arm spin,2012-2018,3,0,1,1,0,1,0,0,0,0,37.66,0,Virat Kohli,T20
+10,mixture/unknown,2012-2020,5,0,0,0,0,0,0,5,0,0,26.60,0,Virat Kohli,T20
+11,1st position,2011-2017,5,1,3,0,0,0,0,1,0,0,23.80,0,Virat Kohli,T20
+12,2nd position,2012-2018,2,0,2,0,0,0,0,0,0,0,39.50,0,Virat Kohli,T20
+13,3rd position,2011-2020,36,5,20,6,0,2,0,3,0,16,58.94,1,Virat Kohli,T20
+14,4th position,2011-2020,10,0,6,3,0,1,0,0,0,4,42.20,0,Virat Kohli,T20
+15,5th position,2010-2010,0,0,0,0,0,0,0,0,0,1,-,0,Virat Kohli,T20
+16,6th position,2018-2020,2,0,1,0,0,0,0,1,0,0,13.00,1,Virat Kohli,T20
+17,0 runs,2017-2018,2,0,2,0,0,0,0,0,0,0,0.00,2,Virat Kohli,T20
+18,1-9 runs,2011-2019,10,0,4,4,0,0,0,2,0,0,4.80,0,Virat Kohli,T20
+19,10-19 runs,2011-2020,9,0,7,2,0,0,0,0,0,0,14.77,0,Virat Kohli,T20
+20,20-29 runs,2010-2020,14,4,6,1,0,1,0,2,0,4,31.78,0,Virat Kohli,T20
+21,30-39 runs,2012-2020,4,0,2,1,0,1,0,0,0,2,53.00,0,Virat Kohli,T20
+22,40-49 runs,2012-2020,6,0,5,0,0,1,0,0,0,1,51.33,0,Virat Kohli,T20
+23,50-89 runs,2012-2019,10,2,6,1,0,0,0,1,0,12,146.40,0,Virat Kohli,T20
+24,90-99 runs,2016-2019,0,0,0,0,0,0,0,0,0,2,-,0,Virat Kohli,T20
+25,caught,2011-2020,41,0,32,9,0,0,0,0,0,0,27.68,2,Virat Kohli,T20
+26,bowled,2011-2019,6,6,0,0,0,0,0,0,0,0,34.16,0,Virat Kohli,T20
+27,leg before wicket,2012-2018,3,0,0,0,0,3,0,0,0,0,37.66,0,Virat Kohli,T20
+28,run out,2012-2020,5,0,0,0,0,0,0,5,0,0,26.60,0,Virat Kohli,T20
+29,not out,2010-2020,0,0,0,0,0,0,0,0,0,21,-,0,Virat Kohli,T20
+30,right-arm bowler,2011-2020,112,5,55,24,0,27,1,0,0,0,45.69,9,Virat Kohli,Test
+31,left-arm bowler,2012-2020,22,2,14,3,0,3,0,0,0,0,59.81,1,Virat Kohli,Test
+32,unknown arm,2012-2012,1,0,0,0,0,0,0,1,0,0,22.00,0,Virat Kohli,Test
+33,pace bowler,2011-2020,90,4,42,24,0,20,0,0,0,0,40.14,10,Virat Kohli,Test
+34,spin bowler,2011-2019,44,3,27,3,0,10,1,0,0,0,64.11,0,Virat Kohli,Test
+35,mixture/unknown,2012-2012,1,0,0,0,0,0,0,1,0,0,22.00,0,Virat Kohli,Test
+36,right-arm pace,2011-2020,77,3,34,21,0,19,0,0,0,0,38.53,9,Virat Kohli,Test
+37,right-arm spin,2011-2019,35,2,21,3,0,8,1,0,0,0,61.45,0,Virat Kohli,Test
+38,left-arm pace,2014-2020,13,1,8,3,0,1,0,0,0,0,49.69,1,Virat Kohli,Test
+39,left-arm spin,2012-2019,9,1,6,0,0,2,0,0,0,0,74.44,0,Virat Kohli,Test
+40,mixture/unknown,2012-2012,1,0,0,0,0,0,0,1,0,0,22.00,0,Virat Kohli,Test
+41,3rd position,2012-2016,5,0,2,0,0,3,0,0,0,1,19.40,0,Virat Kohli,Test
+42,4th position,2013-2020,97,5,50,20,0,21,1,0,0,6,59.07,8,Virat Kohli,Test
+43,5th position,2011-2019,23,2,14,4,0,3,0,0,0,3,43.39,1,Virat Kohli,Test
+44,6th position,2011-2012,9,0,3,2,0,3,0,1,0,0,44.88,1,Virat Kohli,Test
+45,7th position,2011-2011,1,0,0,1,0,0,0,0,0,0,11.00,0,Virat Kohli,Test
+46,1-9 runs,2011-2020,26,1,15,3,0,7,0,0,0,1,4.92,0,Virat Kohli,Test
+47,10-19 runs,2011-2020,22,3,7,6,0,6,0,0,0,1,15.81,0,Virat Kohli,Test
+48,20-29 runs,2011-2019,14,0,5,7,0,1,0,1,0,0,23.64,0,Virat Kohli,Test
+49,30-39 runs,2011-2019,7,0,6,1,0,0,0,0,0,1,39.71,0,Virat Kohli,Test
+50,40-49 runs,2012-2018,13,1,6,2,0,3,1,0,0,1,47.84,0,Virat Kohli,Test
+51,50-89 runs,2011-2019,18,0,12,4,0,2,0,0,0,2,70.83,0,Virat Kohli,Test
+52,90-99 runs,2013-2018,2,0,1,1,0,0,0,0,0,0,96.50,0,Virat Kohli,Test
+53,100-149 runs,2012-2019,14,0,9,0,0,5,0,0,0,3,144.00,0,Virat Kohli,Test
+54,150-199 runs,2014-2018,3,0,2,1,0,0,0,0,0,0,163.00,0,Virat Kohli,Test
+55,200-249 runs,2016-2017,6,1,2,0,0,3,0,0,0,0,217.66,0,Virat Kohli,Test
+56,250-299 runs,2019-2019,0,0,0,0,0,0,0,0,0,1,-,0,Virat Kohli,Test
+57,caught,2011-2020,96,0,69,27,0,0,0,0,0,0,46.93,6,Virat Kohli,Test
+58,bowled,2012-2018,7,7,0,0,0,0,0,0,0,0,41.14,1,Virat Kohli,Test
+59,leg before wicket,2011-2020,30,0,0,0,0,30,0,0,0,0,53.33,3,Virat Kohli,Test
+60,run out,2012-2012,1,0,0,0,0,0,0,1,0,0,22.00,0,Virat Kohli,Test
+61,hit wicket,2016-2016,1,0,0,0,0,0,1,0,0,0,40.00,0,Virat Kohli,Test
+62,not out,2012-2019,0,0,0,0,0,0,0,0,0,10,-,0,Virat Kohli,Test
+63,right-arm bowler,2008-2020,147,20,74,37,3,12,1,0,0,0,46.75,8,Virat Kohli,ODI
+64,left-arm bowler,2008-2019,41,7,23,8,1,2,0,0,0,0,31.60,3,Virat Kohli,ODI
+65,unknown arm,2008-2018,12,0,0,0,0,0,0,12,0,0,46.00,2,Virat Kohli,ODI
+66,pace bowler,2008-2020,131,15,69,40,0,7,0,0,0,0,41.61,11,Virat Kohli,ODI
+67,spin bowler,2009-2020,57,12,28,5,4,7,1,0,0,0,47.68,0,Virat Kohli,ODI
+68,mixture/unknown,2008-2018,12,0,0,0,0,0,0,12,0,0,46.00,2,Virat Kohli,ODI
+69,right-arm pace,2008-2020,103,11,53,33,0,6,0,0,0,0,44.45,8,Virat Kohli,ODI
+70,right-arm spin,2009-2020,44,9,21,4,3,6,1,0,0,0,52.13,0,Virat Kohli,ODI
+71,left-arm pace,2008-2019,28,4,16,7,0,1,0,0,0,0,31.14,3,Virat Kohli,ODI
+72,left-arm spin,2009-2017,13,3,7,1,1,1,0,0,0,0,32.61,0,Virat Kohli,ODI
+73,mixture/unknown,2008-2018,12,0,0,0,0,0,0,12,0,0,46.00,2,Virat Kohli,ODI
+74,1st position,2008-2008,3,1,0,0,0,1,0,1,0,0,36.66,0,Virat Kohli,ODI
+75,2nd position,2008-2014,3,0,2,0,0,1,0,0,0,0,17.00,0,Virat Kohli,ODI
+76,3rd position,2009-2020,155,20,74,40,4,9,0,8,0,30,62.90,13,Virat Kohli,ODI
+77,4th position,2009-2020,32,2,18,5,0,3,1,3,0,7,55.21,0,Virat Kohli,ODI
+78,5th position,2010-2017,4,2,2,0,0,0,0,0,0,0,31.75,0,Virat Kohli,ODI
+79,6th position,2011-2011,0,0,0,0,0,0,0,0,0,1,-,0,Virat Kohli,ODI
+80,7th position,2009-2011,3,2,1,0,0,0,0,0,0,1,12.66,0,Virat Kohli,ODI
+81,0 runs,2010-2019,13,2,5,3,0,1,0,2,0,0,0.00,13,Virat Kohli,ODI
+82,1-9 runs,2009-2020,40,4,15,20,0,1,0,0,0,3,4.95,0,Virat Kohli,ODI
+83,10-19 runs,2008-2020,24,3,9,8,1,2,0,1,0,0,14.12,0,Virat Kohli,ODI
+84,20-29 runs,2008-2019,20,4,6,4,1,3,0,2,0,2,26.35,0,Virat Kohli,ODI
+85,30-39 runs,2008-2019,19,1,13,0,0,3,0,2,0,4,41.26,0,Virat Kohli,ODI
+86,40-49 runs,2013-2019,11,1,5,3,0,2,0,0,0,2,53.09,0,Virat Kohli,ODI
+87,50-89 runs,2008-2020,40,8,22,4,1,2,0,3,0,12,91.92,0,Virat Kohli,ODI
+88,90-99 runs,2010-2017,5,1,3,0,0,0,0,1,0,1,112.60,0,Virat Kohli,ODI
+89,100-149 runs,2009-2019,27,3,18,3,1,0,1,1,0,12,168.18,0,Virat Kohli,ODI
+90,150-199 runs,2012-2018,1,0,1,0,0,0,0,0,0,3,654.00,0,Virat Kohli,ODI
+91,caught,2008-2020,142,0,97,45,0,0,0,0,0,0,43.56,8,Virat Kohli,ODI
+92,bowled,2008-2020,27,27,0,0,0,0,0,0,0,0,45.66,2,Virat Kohli,ODI
+93,leg before wicket,2008-2019,14,0,0,0,0,14,0,0,0,0,28.21,1,Virat Kohli,ODI
+94,run out,2008-2018,12,0,0,0,0,0,0,12,0,0,46.00,2,Virat Kohli,ODI
+95,stumped,2010-2018,4,0,0,0,4,0,0,0,0,0,62.00,0,Virat Kohli,ODI
+96,hit wicket,2011-2011,1,0,0,0,0,0,1,0,0,0,107.00,0,Virat Kohli,ODI

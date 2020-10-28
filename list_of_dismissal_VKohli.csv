@@ -1,0 +1,373 @@
+,how out,fielder,bowler,runs,Inns,opposition,Ground,Start Date,Test_no,batsman,bowler_type,match_type
+0,caught,CS Baugh,FH Edwards,4,1,v West Indies,Kingston,20 Jun 2011,Test # 1997,Virat Kohli,right_arm_pace,Test
+1,caught,CS Baugh,FH Edwards,15,3,v West Indies,Kingston,20 Jun 2011,Test # 1997,Virat Kohli,right_arm_pace,Test
+2,caught,DJG Sammy,R Rampaul,0,1,v West Indies,Bridgetown,28 Jun 2011,Test # 1998,Virat Kohli,right_arm_pace,Test
+3,caught,DJG Sammy,FH Edwards,27,3,v West Indies,Bridgetown,28 Jun 2011,Test # 1998,Virat Kohli,right_arm_pace,Test
+4,caught,CS Baugh,DJG Sammy,30,2,v West Indies,Roseau,6 Jul 2011,Test # 1999,Virat Kohli,right_arm_pace,Test
+5,caught,BJ Haddin,BW Hilfenhaus,11,2,v Australia,Melbourne,26 Dec 2011,Test # 2025,Virat Kohli,right_arm_pace,Test
+6,lbw,,BW Hilfenhaus,0,4,v Australia,Melbourne,26 Dec 2011,Test # 2025,Virat Kohli,right_arm_pace,Test
+7,caught,BJ Haddin,PM Siddle,23,1,v Australia,Sydney,3 Jan 2012,Test # 2027,Virat Kohli,right_arm_pace,Test
+8,lbw,,JL Pattinson,9,3,v Australia,Sydney,3 Jan 2012,Test # 2027,Virat Kohli,right_arm_pace,Test
+9,caught,DA Warner,PM Siddle,44,1,v Australia,Perth,13 Jan 2012,Test # 2029,Virat Kohli,right_arm_pace,Test
+10,caught,BJ Haddin,PM Siddle,75,3,v Australia,Perth,13 Jan 2012,Test # 2029,Virat Kohli,right_arm_pace,Test
+11,lbw,,BW Hilfenhaus,116,2,v Australia,Adelaide,24 Jan 2012,Test # 2031,Virat Kohli,right_arm_pace,Test
+12,caught,MJ Guptill,CS Martin,58,1,v New Zealand,Hyderabad (Deccan),23 Aug 2012,Test # 2054,Virat Kohli,right_arm_pace,Test
+13,lbw,,TG Southee,103,2,v New Zealand,Bengaluru,31 Aug 2012,Test # 2055,Virat Kohli,right_arm_pace,Test
+14,caught,GP Swann,JM Anderson,6,1,v England,Kolkata,5 Dec 2012,Test # 2065,Virat Kohli,right_arm_pace,Test
+15,caught,MJ Prior,ST Finn,20,3,v England,Kolkata,5 Dec 2012,Test # 2065,Virat Kohli,right_arm_pace,Test
+16,caught,PJ Hughes,PM Siddle,34,4,v Australia,Mohali,14 Mar 2013,Test # 2081,Virat Kohli,right_arm_pace,Test
+17,caught,JP Duminy,JH Kallis,119,1,v South Africa,Johannesburg,18 Dec 2013,Test # 2108,Virat Kohli,right_arm_pace,Test
+18,caught,AB de Villiers,M Morkel,46,1,v South Africa,Durban,26 Dec 2013,Test # 2111,Virat Kohli,right_arm_pace,Test
+19,caught,AB de Villiers,DW Steyn,11,3,v South Africa,Durban,26 Dec 2013,Test # 2111,Virat Kohli,right_arm_pace,Test
+20,caught,PG Fulton,TG Southee,4,2,v New Zealand,Auckland,6 Feb 2014,Test # 2118,Virat Kohli,right_arm_pace,Test
+21,caught,IR Bell,SCJ Broad,1,1,v England,Nottingham,9 Jul 2014,Test # 2128,Virat Kohli,right_arm_pace,Test
+22,lbw,,SCJ Broad,8,3,v England,Nottingham,9 Jul 2014,Test # 2128,Virat Kohli,right_arm_pace,Test
+23,caught,MJ Prior,JM Anderson,25,1,v England,Lord's,17 Jul 2014,Test # 2130,Virat Kohli,right_arm_pace,Test
+24,bowled,,LE Plunkett,0,3,v England,Lord's,17 Jul 2014,Test # 2130,Virat Kohli,right_arm_pace,Test
+25,caught,AN Cook,JM Anderson,39,2,v England,Southampton,27 Jul 2014,Test # 2132,Virat Kohli,right_arm_pace,Test
+26,caught,AN Cook,JM Anderson,0,1,v England,Manchester,7 Aug 2014,Test # 2134,Virat Kohli,right_arm_pace,Test
+27,caught,IR Bell,JM Anderson,7,3,v England,Manchester,7 Aug 2014,Test # 2134,Virat Kohli,right_arm_pace,Test
+28,lbw,,CJ Jordan,6,1,v England,The Oval,15 Aug 2014,Test # 2137,Virat Kohli,right_arm_pace,Test
+29,caught,AN Cook,CJ Jordan,20,3,v England,The Oval,15 Aug 2014,Test # 2137,Virat Kohli,right_arm_pace,Test
+30,caught,BJ Haddin,JR Hazlewood,19,1,v Australia,Brisbane,17 Dec 2014,Test # 2149,Virat Kohli,right_arm_pace,Test
+31,caught,JA Burns,RJ Harris,54,4,v Australia,Melbourne,26 Dec 2014,Test # 2152,Virat Kohli,right_arm_pace,Test
+32,caught,CJL Rogers,RJ Harris,147,2,v Australia,Sydney,6 Jan 2015,Test # 2156,Virat Kohli,right_arm_pace,Test
+33,caught,MDKJ Perera,AD Mathews,18,1,v Sri Lanka,Colombo (SSC),28 Aug 2015,Test # 2179,Virat Kohli,right_arm_pace,Test
+34,caught,WU Tharanga,N Pradeep,21,3,v Sri Lanka,Colombo (SSC),28 Aug 2015,Test # 2179,Virat Kohli,right_arm_pace,Test
+35,caught,D Elgar,K Rabada,1,1,v South Africa,Mohali,5 Nov 2015,Test # 2186,Virat Kohli,right_arm_pace,Test
+36,caught,DJ Vilas,S van Zyl,29,3,v South Africa,Mohali,5 Nov 2015,Test # 2186,Virat Kohli,right_arm_pace,Test
+37,caught,DJ Vilas,M Morkel,22,1,v South Africa,Nagpur,25 Nov 2015,Test # 2189,Virat Kohli,right_arm_pace,Test
+38,lbw,,KJ Abbott,88,3,v South Africa,Delhi,3 Dec 2015,Test # 2191,Virat Kohli,right_arm_pace,Test
+39,bowled,,ST Gabriel,200,1,v West Indies,North Sound,21 Jul 2016,Test # 2207,Virat Kohli,right_arm_pace,Test
+40,caught,DM Bravo,AS Joseph,3,1,v West Indies,Gros Islet,9 Aug 2016,Test # 2215,Virat Kohli,right_arm_pace,Test
+41,lbw,,ML Cummins,4,3,v West Indies,Gros Islet,9 Aug 2016,Test # 2215,Virat Kohli,right_arm_pace,Test
+42,caught,JM Bairstow,BA Stokes,62,2,v England,Mohali,26 Nov 2016,Test # 2238,Virat Kohli,right_arm_pace,Test
+43,caught,JM Anderson,CR Woakes,235,2,v England,Mumbai,8 Dec 2016,Test # 2239,Virat Kohli,right_arm_pace,Test
+44,caught,KK Jennings,SCJ Broad,15,2,v England,Chennai,16 Dec 2016,Test # 2241,Virat Kohli,right_arm_pace,Test
+45,lbw,,JR Hazlewood,15,3,v Australia,Bengaluru,4 Mar 2017,Test # 2251,Virat Kohli,right_arm_pace,Test
+46,caught,SPD Smith,PJ Cummins,6,2,v Australia,Ranchi,16 Mar 2017,Test # 2256,Virat Kohli,right_arm_pace,Test
+47,caught,N Dickwella,N Pradeep,3,1,v Sri Lanka,Galle,26 Jul 2017,Test # 2265,Virat Kohli,right_arm_pace,Test
+48,lbw,,RAS Lakmal,0,1,v Sri Lanka,Kolkata,16 Nov 2017,Test # 2281,Virat Kohli,right_arm_pace,Test
+49,caught,RAS Lakmal,PLS Gamage,50,3,v Sri Lanka,Delhi,2 Dec 2017,Test # 2286,Virat Kohli,right_arm_pace,Test
+50,caught,Q de Kock,M Morkel,5,2,v South Africa,Cape Town,5 Jan 2018,Test # 2292,Virat Kohli,right_arm_pace,Test
+51,lbw,,VD Philander,28,4,v South Africa,Cape Town,5 Jan 2018,Test # 2292,Virat Kohli,right_arm_pace,Test
+52,caught,AB de Villiers,M Morkel,153,2,v South Africa,Centurion,13 Jan 2018,Test # 2293,Virat Kohli,right_arm_pace,Test
+53,lbw,,L Ngidi,5,4,v South Africa,Centurion,13 Jan 2018,Test # 2293,Virat Kohli,right_arm_pace,Test
+54,caught,AB de Villiers,L Ngidi,54,1,v South Africa,Johannesburg,24 Jan 2018,Test # 2294,Virat Kohli,right_arm_pace,Test
+55,bowled,,K Rabada,41,3,v South Africa,Johannesburg,24 Jan 2018,Test # 2294,Virat Kohli,right_arm_pace,Test
+56,lbw,,BA Stokes,51,4,v England,Birmingham,1 Aug 2018,Test # 2314,Virat Kohli,right_arm_pace,Test
+57,caught,JC Buttler,CR Woakes,23,1,v England,Lord's,9 Aug 2018,Test # 2315,Virat Kohli,right_arm_pace,Test
+58,caught,OJ Pope,SCJ Broad,17,3,v England,Lord's,9 Aug 2018,Test # 2315,Virat Kohli,right_arm_pace,Test
+59,lbw,,CR Woakes,103,3,v England,Nottingham,18 Aug 2018,Test # 2316,Virat Kohli,right_arm_pace,Test
+60,caught,JE Root,BA Stokes,49,2,v England,The Oval,7 Sep 2018,Test # 2318,Virat Kohli,right_arm_pace,Test
+61,caught,JM Bairstow,SCJ Broad,0,4,v England,The Oval,7 Sep 2018,Test # 2318,Virat Kohli,right_arm_pace,Test
+62,caught,D Bishoo,SH Lewis,139,1,v West Indies,Rajkot,4 Oct 2018,Test # 2319,Virat Kohli,right_arm_pace,Test
+63,lbw,,JO Holder,45,2,v West Indies,Hyderabad (Deccan),12 Oct 2018,Test # 2321,Virat Kohli,right_arm_pace,Test
+64,caught,UT Khawaja,PJ Cummins,3,1,v Australia,Adelaide,6 Dec 2018,Test # 2333,Virat Kohli,right_arm_pace,Test
+65,caught,PSP Handscomb,PJ Cummins,123,2,v Australia,Perth,14 Dec 2018,Test # 2334,Virat Kohli,right_arm_pace,Test
+66,caught,MS Harris,PJ Cummins,0,3,v Australia,Melbourne,26 Dec 2018,Test # 2337,Virat Kohli,right_arm_pace,Test
+67,caught,TD Paine,JR Hazlewood,23,1,v Australia,Sydney,3 Jan 2019,Test # 2339,Virat Kohli,right_arm_pace,Test
+68,caught,SSJ Brooks,ST Gabriel,9,1,v West Indies,North Sound,22 Aug 2019,Test # 2358,Virat Kohli,right_arm_pace,Test
+69,caught,JN Hamilton,JO Holder,76,1,v West Indies,Kingston,30 Aug 2019,Test # 2359,Virat Kohli,right_arm_pace,Test
+70,caught,JN Hamilton,KAJ Roach,0,3,v West Indies,Kingston,30 Aug 2019,Test # 2359,Virat Kohli,right_arm_pace,Test
+71,lbw,,A Nortje,12,1,v South Africa,Ranchi,19 Oct 2019,Test # 2365,Virat Kohli,right_arm_pace,Test
+72,lbw,,Abu Jayed,0,2,v Bangladesh,Indore,14 Nov 2019,Test # 2366,Virat Kohli,right_arm_pace,Test
+73,caught,Taijul Islam,Ebadat Hossain,136,2,v Bangladesh,Kolkata,22 Nov 2019,Test # 2369,Virat Kohli,right_arm_pace,Test
+74,caught,LRPL Taylor,KA Jamieson,2,1,v New Zealand,Wellington,21 Feb 2020,Test # 2385,Virat Kohli,right_arm_pace,Test
+75,lbw,,TG Southee,3,1,v New Zealand,Christchurch,29 Feb 2020,Test # 2387,Virat Kohli,right_arm_pace,Test
+76,lbw,,C de Grandhomme,14,3,v New Zealand,Christchurch,29 Feb 2020,Test # 2387,Virat Kohli,right_arm_pace,Test
+77,caught,FH Edwards,D Bishoo,52,2,v West Indies,Mumbai,22 Nov 2011,Test # 2019,Virat Kohli,right_arm_spin,Test
+78,caught,DJG Sammy,D Bishoo,63,4,v West Indies,Mumbai,22 Nov 2011,Test # 2019,Virat Kohli,right_arm_spin,Test
+79,bowled,,GP Swann,19,1,v England,Ahmedabad,15 Nov 2012,Test # 2058,Virat Kohli,right_arm_spin,Test
+80,caught,JE Root (sub),GP Swann,7,3,v England,Mumbai,23 Nov 2012,Test # 2062,Virat Kohli,right_arm_spin,Test
+81,lbw,,GP Swann,103,2,v England,Nagpur,13 Dec 2012,Test # 2066,Virat Kohli,right_arm_spin,Test
+82,caught,MA Starc,NM Lyon,107,2,v Australia,Chennai,22 Feb 2013,Test # 2074,Virat Kohli,right_arm_spin,Test
+83,caught,EJM Cowan,GJ Maxwell,34,2,v Australia,Hyderabad (Deccan),2 Mar 2013,Test # 2076,Virat Kohli,right_arm_spin,Test
+84,lbw,,NM Lyon,1,2,v Australia,Delhi,22 Mar 2013,Test # 2085,Virat Kohli,right_arm_spin,Test
+85,lbw,,NM Lyon,41,4,v Australia,Delhi,22 Mar 2013,Test # 2085,Virat Kohli,right_arm_spin,Test
+86,caught,KOA Powell,S Shillingford,3,2,v West Indies,Kolkata,6 Nov 2013,Test # 2101,Virat Kohli,right_arm_spin,Test
+87,caught,DJG Sammy,S Shillingford,57,2,v West Indies,Mumbai,14 Nov 2013,Test # 2102,Virat Kohli,right_arm_spin,Test
+88,caught,AB de Villiers,JP Duminy,96,3,v South Africa,Johannesburg,18 Dec 2013,Test # 2108,Virat Kohli,right_arm_spin,Test
+89,caught,JC Buttler,MM Ali,28,4,v England,Southampton,27 Jul 2014,Test # 2132,Virat Kohli,right_arm_spin,Test
+90,caught,MR Marsh,NM Lyon,141,4,v Australia,Adelaide,9 Dec 2014,Test # 2148,Virat Kohli,right_arm_spin,Test
+91,bowled,,Jubair Hossain,14,1,v Bangladesh,Fatullah,10 Jun 2015,Test # 2165,Virat Kohli,right_arm_spin,Test
+92,lbw,,PHT Kaushal,103,2,v Sri Lanka,Galle,12 Aug 2015,Test # 2176,Virat Kohli,right_arm_spin,Test
+93,caught,JK Silva,PHT Kaushal,3,4,v Sri Lanka,Galle,12 Aug 2015,Test # 2176,Virat Kohli,right_arm_spin,Test
+94,lbw,,PHT Kaushal,10,3,v Sri Lanka,Colombo (PSS),20 Aug 2015,Test # 2177,Virat Kohli,right_arm_spin,Test
+95,caught,F du Plessis,Imran Tahir,16,3,v South Africa,Nagpur,25 Nov 2015,Test # 2189,Virat Kohli,right_arm_spin,Test
+96,caught,DJ Vilas,DL Piedt,44,1,v South Africa,Delhi,3 Dec 2015,Test # 2191,Virat Kohli,right_arm_spin,Test
+97,caught,R Chandrika,RL Chase,44,2,v West Indies,Kingston,30 Jul 2016,Test # 2211,Virat Kohli,right_arm_spin,Test
+98,caught,IS Sodhi,MD Craig,18,3,v New Zealand,Kanpur,22 Sep 2016,Test # 2221,Virat Kohli,right_arm_spin,Test
+99,lbw,,JS Patel,211,1,v New Zealand,Indore,8 Oct 2016,Test # 2223,Virat Kohli,right_arm_spin,Test
+100,lbw,,JS Patel,17,3,v New Zealand,Indore,8 Oct 2016,Test # 2223,Virat Kohli,right_arm_spin,Test
+101,hit wicket,,AU Rashid,40,2,v England,Rajkot,9 Nov 2016,Test # 2232,Virat Kohli,right_arm_spin,Test
+102,caught,BA Stokes,MM Ali,167,1,v England,Visakhapatnam,17 Nov 2016,Test # 2235,Virat Kohli,right_arm_spin,Test
+103,caught,BA Stokes,AU Rashid,81,3,v England,Visakhapatnam,17 Nov 2016,Test # 2235,Virat Kohli,right_arm_spin,Test
+104,lbw,,NM Lyon,12,1,v Australia,Bengaluru,4 Mar 2017,Test # 2251,Virat Kohli,right_arm_spin,Test
+105,caught,HDRL Thirimanne,MDK Perera,213,2,v Sri Lanka,Nagpur,24 Nov 2017,Test # 2283,Virat Kohli,right_arm_spin,Test
+106,caught,SCJ Broad,AU Rashid,149,2,v England,Birmingham,1 Aug 2018,Test # 2314,Virat Kohli,right_arm_spin,Test
+107,caught,BA Stokes,AU Rashid,97,1,v England,Nottingham,18 Aug 2018,Test # 2316,Virat Kohli,right_arm_spin,Test
+108,caught,AN Cook,MM Ali,58,4,v England,Southampton,30 Aug 2018,Test # 2317,Virat Kohli,right_arm_spin,Test
+109,caught,AJ Finch,NM Lyon,34,3,v Australia,Adelaide,6 Dec 2018,Test # 2333,Virat Kohli,right_arm_spin,Test
+110,caught,UT Khawaja,NM Lyon,17,4,v Australia,Perth,14 Dec 2018,Test # 2334,Virat Kohli,right_arm_spin,Test
+111,caught,JD Campbell,RL Chase,51,3,v West Indies,North Sound,22 Aug 2019,Test # 2358,Virat Kohli,right_arm_spin,Test
+112,caught,BJ Watling,N Wagner,67,4,v New Zealand,Auckland,6 Feb 2014,Test # 2118,Virat Kohli,left_arm_pace,Test
+113,caught,HD Rutherford,N Wagner,38,2,v New Zealand,Wellington,14 Feb 2014,Test # 2120,Virat Kohli,left_arm_pace,Test
+114,caught,RJ Harris,MG Johnson,115,2,v Australia,Adelaide,9 Dec 2014,Test # 2148,Virat Kohli,left_arm_pace,Test
+115,bowled,,MG Johnson,1,3,v Australia,Brisbane,17 Dec 2014,Test # 2149,Virat Kohli,left_arm_pace,Test
+116,caught,BJ Haddin,MG Johnson,169,2,v Australia,Melbourne,26 Dec 2014,Test # 2152,Virat Kohli,left_arm_pace,Test
+117,caught,SR Watson,MA Starc,46,4,v Australia,Sydney,6 Jan 2015,Test # 2156,Virat Kohli,left_arm_pace,Test
+118,caught,IS Sodhi,N Wagner,9,1,v New Zealand,Kanpur,22 Sep 2016,Test # 2221,Virat Kohli,left_arm_pace,Test
+119,caught,TWM Latham,TA Boult,9,1,v New Zealand,Kolkata,30 Sep 2016,Test # 2222,Virat Kohli,left_arm_pace,Test
+120,lbw,,TA Boult,45,3,v New Zealand,Kolkata,30 Sep 2016,Test # 2222,Virat Kohli,left_arm_pace,Test
+121,caught,PSP Handscomb,MA Starc,0,2,v Australia,Pune,23 Feb 2017,Test # 2250,Virat Kohli,left_arm_pace,Test
+122,caught,AN Cook,SM Curran,46,2,v England,Southampton,30 Aug 2018,Test # 2317,Virat Kohli,left_arm_pace,Test
+123,caught,AJ Finch,MA Starc,82,1,v Australia,Melbourne,26 Dec 2018,Test # 2337,Virat Kohli,left_arm_pace,Test
+124,caught,BJ Watling,TA Boult,19,3,v New Zealand,Wellington,21 Feb 2020,Test # 2385,Virat Kohli,left_arm_pace,Test
+125,caught,NRD Compton,MS Panesar,19,1,v England,Mumbai,23 Nov 2012,Test # 2062,Virat Kohli,left_arm_spin,Test
+126,caught,AD Mathews,HMRKB Herath,78,1,v Sri Lanka,Colombo (PSS),20 Aug 2015,Test # 2177,Virat Kohli,left_arm_spin,Test
+127,lbw,,Taijul Islam,204,1,v Bangladesh,Hyderabad (Deccan),9 Feb 2017,Test # 2249,Virat Kohli,left_arm_spin,Test
+128,caught,Mahmudullah,Shakib Al Hasan,38,3,v Bangladesh,Hyderabad (Deccan),9 Feb 2017,Test # 2249,Virat Kohli,left_arm_spin,Test
+129,bowled,,SNJ O'Keefe,13,4,v Australia,Pune,23 Feb 2017,Test # 2250,Virat Kohli,left_arm_spin,Test
+130,caught,AD Mathews,HMRKB Herath,13,1,v Sri Lanka,Colombo (SSC),3 Aug 2017,Test # 2267,Virat Kohli,left_arm_spin,Test
+131,caught,FDM Karunaratne,PADLR Sandakan,42,1,v Sri Lanka,Pallekele,12 Aug 2017,Test # 2269,Virat Kohli,left_arm_spin,Test
+132,lbw,,PADLR Sandakan,243,1,v Sri Lanka,Delhi,2 Dec 2017,Test # 2286,Virat Kohli,left_arm_spin,Test
+133,caught,S Muthusamy,S Muthusamy,20,1,v South Africa,Visakhapatnam,2 Oct 2019,Test # 2363,Virat Kohli,left_arm_spin,Test
+134,lbw,,KMDN Kulasekara,12,1,v Sri Lanka,Dambulla,18 Aug 2008,ODI # 2742,Virat Kohli,right_arm_pace,ODI
+135,lbw,,KMDN Kulasekara,31,2,v Sri Lanka,Colombo (RPS),29 Aug 2008,ODI # 2756,Virat Kohli,right_arm_pace,ODI
+136,caught,HH Gibbs,JA Morkel,31,1,v South Africa,Jaipur,21 Feb 2010,ODI # 2961,Virat Kohli,right_arm_pace,ODI
+137,caught,MV Boucher,DW Steyn,57,2,v South Africa,Ahmedabad,27 Feb 2010,ODI # 2963,Virat Kohli,right_arm_pace,ODI
+138,caught,KC Sangakkara,MF Maharoof,10,1,v Sri Lanka,Dambulla,22 Jun 2010,ODI # 2999,Virat Kohli,right_arm_pace,ODI
+139,caught,KC Sangakkara,SL Malinga,28,1,v Sri Lanka,Dambulla,24 Jun 2010,ODI # 3001,Virat Kohli,right_arm_pace,ODI
+140,caught,KC Sangakkara,CRD Fernando,0,2,v Sri Lanka,Dambulla,16 Aug 2010,ODI # 3032,Virat Kohli,right_arm_pace,ODI
+141,caught,GJ Hopkins,TG Southee,8,1,v New Zealand,Dambulla,25 Aug 2010,ODI # 3039,Virat Kohli,right_arm_pace,ODI
+142,caught,AD Mathews,NLTC Perera,37,2,v Sri Lanka,Dambulla,28 Aug 2010,ODI # 3040,Virat Kohli,right_arm_pace,ODI
+143,caught,JR Hopes,JW Hastings,118,2,v Australia,Visakhapatnam,20 Oct 2010,ODI # 3060,Virat Kohli,right_arm_pace,ODI
+144,caught,GC Smith,DW Steyn,54,2,v South Africa,Durban,12 Jan 2011,ODI # 3079,Virat Kohli,right_arm_pace,ODI
+145,caught,AB de Villiers,M Morkel,28,2,v South Africa,Cape Town,18 Jan 2011,ODI # 3082,Virat Kohli,right_arm_pace,ODI
+146,caught,AB de Villiers,M Morkel,2,2,v South Africa,Centurion,23 Jan 2011,ODI # 3087,Virat Kohli,right_arm_pace,ODI
+147,bowled,,TT Bresnan,8,1,v England,Bengaluru,27 Feb 2011,ODI # 3110,Virat Kohli,right_arm_pace,ODI
+148,bowled,,PW Borren,12,2,v Netherlands,Delhi,9 Mar 2011,ODI # 3124,Virat Kohli,right_arm_pace,ODI
+149,bowled,,R Rampaul,59,1,v West Indies,Chennai,20 Mar 2011,ODI # 3141,Virat Kohli,right_arm_pace,ODI
+150,caught,CS Baugh,R Rampaul,2,2,v West Indies,Port of Spain,6 Jun 2011,ODI # 3159,Virat Kohli,right_arm_pace,ODI
+151,lbw,,DJG Sammy,0,2,v West Indies,North Sound,11 Jun 2011,ODI # 3161,Virat Kohli,right_arm_pace,ODI
+152,caught,C Kieswetter,JM Anderson,7,1,v England,The Oval,9 Sep 2011,ODI # 3189,Virat Kohli,right_arm_pace,ODI
+153,bowled,,ST Finn,0,1,v England,Kolkata,25 Oct 2011,ODI # 3210,Virat Kohli,right_arm_pace,ODI
+154,bowled,,KAJ Roach,3,2,v West Indies,Cuttack,29 Nov 2011,ODI # 3217,Virat Kohli,right_arm_pace,ODI
+155,caught,D Ramdin,R Rampaul,117,2,v West Indies,Visakhapatnam,2 Dec 2011,ODI # 3219,Virat Kohli,right_arm_pace,ODI
+156,caught,RT Ponting,CJ McKay,31,2,v Australia,Melbourne,5 Feb 2012,ODI # 3231,Virat Kohli,right_arm_pace,ODI
+157,caught,PJ Forrest,CJ McKay,18,2,v Australia,Adelaide,12 Feb 2012,ODI # 3237,Virat Kohli,right_arm_pace,ODI
+158,lbw,,NLTC Perera,15,2,v Sri Lanka,Adelaide,14 Feb 2012,ODI # 3239,Virat Kohli,right_arm_pace,ODI
+159,caught,DJ Hussey,BW Hilfenhaus,12,2,v Australia,Brisbane,19 Feb 2012,ODI # 3244,Virat Kohli,right_arm_pace,ODI
+160,caught,KMDN Kulasekara,NLTC Perera,66,2,v Sri Lanka,Brisbane,21 Feb 2012,ODI # 3246,Virat Kohli,right_arm_pace,ODI
+161,caught,DT Christian,SR Watson,21,2,v Australia,Sydney,26 Feb 2012,ODI # 3250,Virat Kohli,right_arm_pace,ODI
+162,caught,HDRL Thirimanne,MF Maharoof,108,1,v Sri Lanka,Dhaka,13 Mar 2012,ODI # 3259,Virat Kohli,right_arm_pace,ODI
+163,caught,Mohammad Hafeez,Umar Gul,183,2,v Pakistan,Dhaka,18 Mar 2012,ODI # 3263,Virat Kohli,right_arm_pace,ODI
+164,caught,SMSM Senanayake (sub),NLTC Perera,106,1,v Sri Lanka,Hambantota,21 Jul 2012,ODI # 3291,Virat Kohli,right_arm_pace,ODI
+165,caught,KC Sangakkara,NLTC Perera,1,1,v Sri Lanka,Hambantota,24 Jul 2012,ODI # 3292,Virat Kohli,right_arm_pace,ODI
+166,lbw,,N Pradeep,23,1,v Sri Lanka,Pallekele,4 Aug 2012,ODI # 3295,Virat Kohli,right_arm_pace,ODI
+167,caught,C Kieswetter,TT Bresnan,15,2,v England,Rajkot,11 Jan 2013,ODI # 3318,Virat Kohli,right_arm_pace,ODI
+168,caught,IR Bell,CR Woakes,37,1,v England,Kochi,15 Jan 2013,ODI # 3320,Virat Kohli,right_arm_pace,ODI
+169,caught,JC Tredwell,TT Bresnan,0,1,v England,Dharamsala,27 Jan 2013,ODI # 3329,Virat Kohli,right_arm_pace,ODI
+170,caught,RS Bopara,JM Anderson,43,1,v England,Birmingham,23 Jun 2013,ODI # 3377,Virat Kohli,right_arm_pace,ODI
+171,caught,CH Gayle,DJG Sammy,11,1,v West Indies,Kingston,30 Jun 2013,ODI # 3380,Virat Kohli,right_arm_pace,ODI
+172,caught,SL Malinga,AD Mathews,2,2,v Sri Lanka,Kingston,2 Jul 2013,ODI # 3382,Virat Kohli,right_arm_pace,ODI
+173,caught,DJG Sammy,DJ Bravo,102,1,v West Indies,Port of Spain,5 Jul 2013,ODI # 3383,Virat Kohli,right_arm_pace,ODI
+174,caught,KC Sangakkara,RMS Eranga,2,2,v Sri Lanka,Port of Spain,11 Jul 2013,ODI # 3388,Virat Kohli,right_arm_pace,ODI
+175,caught,MN Waller,KM Jarvis,14,1,v Zimbabwe,Harare,26 Jul 2013,ODI # 3397,Virat Kohli,right_arm_pace,ODI
+176,lbw,,SR Watson,61,2,v Australia,Pune,13 Oct 2013,ODI # 3419,Virat Kohli,right_arm_pace,ODI
+177,caught,SP Narine,JO Holder,86,2,v West Indies,Kochi,21 Nov 2013,ODI # 3436,Virat Kohli,right_arm_pace,ODI
+178,caught,JO Holder,R Rampaul,99,1,v West Indies,Visakhapatnam,24 Nov 2013,ODI # 3437,Virat Kohli,right_arm_pace,ODI
+179,caught,J Charles,R Rampaul,19,2,v West Indies,Kanpur,27 Nov 2013,ODI # 3439,Virat Kohli,right_arm_pace,ODI
+180,caught,JH Kallis,R McLaren,31,2,v South Africa,Johannesburg,5 Dec 2013,ODI # 3442,Virat Kohli,right_arm_pace,ODI
+181,caught,AP Devcich (sub),TG Southee,78,2,v New Zealand,Hamilton,22 Jan 2014,ODI # 3458,Virat Kohli,right_arm_pace,ODI
+182,caught,L Ronchi,HK Bennett,6,2,v New Zealand,Auckland,25 Jan 2014,ODI # 3462,Virat Kohli,right_arm_pace,ODI
+183,caught,JDS Neesham,TG Southee,2,1,v New Zealand,Hamilton,28 Jan 2014,ODI # 3465,Virat Kohli,right_arm_pace,ODI
+184,bowled,,Rubel Hossain,136,2,v Bangladesh,Fatullah,26 Feb 2014,ODI # 3474,Virat Kohli,right_arm_pace,ODI
+185,caught,Umar Akmal,Umar Gul,5,1,v Pakistan,Dhaka,2 Mar 2014,ODI # 3479,Virat Kohli,right_arm_pace,ODI
+186,caught,AN Cook,CR Woakes,0,1,v England,Cardiff,27 Aug 2014,ODI # 3517,Virat Kohli,right_arm_pace,ODI
+187,caught,JC Tredwell,BA Stokes,40,2,v England,Nottingham,30 Aug 2014,ODI # 3520,Virat Kohli,right_arm_pace,ODI
+188,caught,AN Cook,JM Anderson,13,2,v England,Leeds,5 Sep 2014,ODI # 3525,Virat Kohli,right_arm_pace,ODI
+189,caught,DJG Sammy,JE Taylor,2,2,v West Indies,Kochi,8 Oct 2014,ODI # 3531,Virat Kohli,right_arm_pace,ODI
+190,caught,MN Samuels,R Rampaul,62,1,v West Indies,Delhi,11 Oct 2014,ODI # 3533,Virat Kohli,right_arm_pace,ODI
+191,caught,JC Buttler,ST Finn,4,1,v England,Brisbane,20 Jan 2015,ODI # 3586,Virat Kohli,right_arm_pace,ODI
+192,caught,Umar Akmal,Sohail Khan,107,1,v Pakistan,Adelaide,15 Feb 2015,ODI # 3602,Virat Kohli,right_arm_pace,ODI
+193,caught,MN Samuels,AD Russell,33,2,v West Indies,Perth,6 Mar 2015,ODI # 3625,Virat Kohli,right_arm_pace,ODI
+194,caught,Mushfiqur Rahim,Rubel Hossain,3,1,v Bangladesh,Melbourne,19 Mar 2015,ODI # 3641,Virat Kohli,right_arm_pace,ODI
+195,caught,Mushfiqur Rahim,Taskin Ahmed,1,2,v Bangladesh,Dhaka,18 Jun 2015,ODI # 3658,Virat Kohli,right_arm_pace,ODI
+196,caught,M Morkel,DW Steyn,11,2,v South Africa,Kanpur,11 Oct 2015,ODI # 3689,Virat Kohli,right_arm_pace,ODI
+197,caught,DA Miller,M Morkel,77,2,v South Africa,Rajkot,18 Oct 2015,ODI # 3695,Virat Kohli,right_arm_pace,ODI
+198,caught,Q de Kock,K Rabada,138,1,v South Africa,Chennai,22 Oct 2015,ODI # 3698,Virat Kohli,right_arm_pace,ODI
+199,caught,Q de Kock,K Rabada,7,2,v South Africa,Mumbai,25 Oct 2015,ODI # 3700,Virat Kohli,right_arm_pace,ODI
+200,caught,GJ Bailey,JW Hastings,117,1,v Australia,Melbourne,17 Jan 2016,ODI # 3725,Virat Kohli,right_arm_pace,ODI
+201,caught,SPD Smith,KW Richardson,106,2,v Australia,Canberra,20 Jan 2016,ODI # 3726,Virat Kohli,right_arm_pace,ODI
+202,caught,MS Wade,JW Hastings,8,2,v Australia,Sydney,23 Jan 2016,ODI # 3727,Virat Kohli,right_arm_pace,ODI
+203,caught,DJ Willey,BA Stokes,122,2,v England,Pune,15 Jan 2017,ODI # 3819,Virat Kohli,right_arm_pace,ODI
+204,caught,BA Stokes,CR Woakes,8,1,v England,Cuttack,19 Jan 2017,ODI # 3821,Virat Kohli,right_arm_pace,ODI
+205,caught,JC Buttler,BA Stokes,55,2,v England,Kolkata,22 Jan 2017,ODI # 3824,Virat Kohli,right_arm_pace,ODI
+206,caught,N Dickwella,N Pradeep,0,1,v Sri Lanka,The Oval,8 Jun 2017,ODI # 3882,Virat Kohli,right_arm_pace,ODI
+207,caught,AR Nurse,AS Joseph,87,1,v West Indies,Port of Spain,25 Jun 2017,ODI # 3896,Virat Kohli,right_arm_pace,ODI
+208,caught,KA Hope,JO Holder,11,1,v West Indies,North Sound,30 Jun 2017,ODI # 3898,Virat Kohli,right_arm_pace,ODI
+209,caught,SD Hope,JO Holder,3,2,v West Indies,North Sound,2 Jul 2017,ODI # 3900,Virat Kohli,right_arm_pace,ODI
+210,caught,EMDY Munaweera,SL Malinga,131,1,v Sri Lanka,Colombo (RPS),31 Aug 2017,ODI # 3908,Virat Kohli,right_arm_pace,ODI
+211,caught,GJ Maxwell,NM Coulter-Nile,0,1,v Australia,Chennai,17 Sep 2017,ODI # 3910,Virat Kohli,right_arm_pace,ODI
+212,bowled,,NM Coulter-Nile,92,1,v Australia,Kolkata,21 Sep 2017,ODI # 3912,Virat Kohli,right_arm_pace,ODI
+213,bowled,,NM Coulter-Nile,21,2,v Australia,Bengaluru,28 Sep 2017,ODI # 3917,Virat Kohli,right_arm_pace,ODI
+214,caught,TA Boult,TG Southee,121,1,v New Zealand,Mumbai,22 Oct 2017,ODI # 3928,Virat Kohli,right_arm_pace,ODI
+215,caught,TWM Latham,C de Grandhomme,29,2,v New Zealand,Pune,25 Oct 2017,ODI # 3931,Virat Kohli,right_arm_pace,ODI
+216,caught,KS Williamson,TG Southee,113,1,v New Zealand,Kanpur,29 Oct 2017,ODI # 3932,Virat Kohli,right_arm_pace,ODI
+217,caught,K Rabada,AL Phehlukwayo,112,2,v South Africa,Durban,1 Feb 2018,ODI # 3969,Virat Kohli,right_arm_pace,ODI
+218,caught,DA Miller,CH Morris,75,1,v South Africa,Johannesburg,10 Feb 2018,ODI # 3973,Virat Kohli,right_arm_pace,ODI
+219,caught,SD Hope,KAJ Roach,16,1,v West Indies,Mumbai (BS),29 Oct 2018,ODI # 4063,Virat Kohli,right_arm_pace,ODI
+220,caught,MP Stoinis,JA Richardson,3,2,v Australia,Sydney,12 Jan 2019,ODI # 4077,Virat Kohli,right_arm_pace,ODI
+221,caught,GJ Maxwell,JA Richardson,104,2,v Australia,Adelaide,15 Jan 2019,ODI # 4078,Virat Kohli,right_arm_pace,ODI
+222,caught,AT Carey,JA Richardson,46,2,v Australia,Melbourne,18 Jan 2019,ODI # 4079,Virat Kohli,right_arm_pace,ODI
+223,caught,TWM Latham,LH Ferguson,45,2,v New Zealand,Napier,23 Jan 2019,ODI # 4082,Virat Kohli,right_arm_pace,ODI
+224,caught,MP Stoinis,PJ Cummins,116,1,v Australia,Nagpur,5 Mar 2019,ODI # 4106,Virat Kohli,right_arm_pace,ODI
+225,caught,AT Carey,JA Richardson,7,1,v Australia,Mohali,10 Mar 2019,ODI # 4111,Virat Kohli,right_arm_pace,ODI
+226,caught,AT Carey,MP Stoinis,20,2,v Australia,Delhi,13 Mar 2019,ODI # 4113,Virat Kohli,right_arm_pace,ODI
+227,caught,Q de Kock,AL Phehlukwayo,18,2,v South Africa,Southampton,5 Jun 2019,ODI # 4150,Virat Kohli,right_arm_pace,ODI
+228,caught,PJ Cummins,MP Stoinis,82,1,v Australia,The Oval,9 Jun 2019,ODI # 4155,Virat Kohli,right_arm_pace,ODI
+229,caught,DM Bravo (sub),JO Holder,72,1,v West Indies,Manchester,27 Jun 2019,ODI # 4175,Virat Kohli,right_arm_pace,ODI
+230,caught,JM Vince (sub),LE Plunkett,66,2,v England,Birmingham,30 Jun 2019,ODI # 4179,Virat Kohli,right_arm_pace,ODI
+231,caught,KAJ Roach,CR Brathwaite,120,1,v West Indies,Port of Spain,11 Aug 2019,ODI # 4197,Virat Kohli,right_arm_pace,ODI
+232,caught,RL Chase,KA Pollard,0,1,v West Indies,Visakhapatnam,18 Dec 2019,ODI # 4222,Virat Kohli,right_arm_pace,ODI
+233,bowled,,KMA Paul,85,2,v West Indies,Cuttack,22 Dec 2019,ODI # 4223,Virat Kohli,right_arm_pace,ODI
+234,bowled,,JR Hazlewood,89,2,v Australia,Bengaluru,19 Jan 2020,ODI # 4233,Virat Kohli,right_arm_pace,ODI
+235,bowled,,TG Southee,15,2,v New Zealand,Auckland,8 Feb 2020,ODI # 4239,Virat Kohli,right_arm_pace,ODI
+236,caught,KA Jamieson,HK Bennett,9,1,v New Zealand,Mount Maunganui,11 Feb 2020,ODI # 4243,Virat Kohli,right_arm_pace,ODI
+237,caught,Umar Gul,Shahid Afridi,16,2,v Pakistan,Centurion,26 Sep 2009,ODI # 2898,Virat Kohli,right_arm_spin,ODI
+238,lbw,,S Randiv,54,1,v Sri Lanka,Nagpur,18 Dec 2009,ODI # 2933,Virat Kohli,right_arm_spin,ODI
+239,caught,M Pushpakumara (sub),S Randiv,107,2,v Sri Lanka,Kolkata,24 Dec 2009,ODI # 2935,Virat Kohli,right_arm_spin,ODI
+240,caught,CRD Fernando,S Randiv,82,2,v Sri Lanka,Bulawayo,30 May 2010,ODI # 2983,Virat Kohli,right_arm_spin,ODI
+241,caught,T Taibu,P Utseya,18,1,v Zimbabwe,Harare,3 Jun 2010,ODI # 2986,Virat Kohli,right_arm_spin,ODI
+242,bowled,,Saeed Ajmal,18,2,v Pakistan,Dambulla,19 Jun 2010,ODI # 2996,Virat Kohli,right_arm_spin,ODI
+243,caught,MJ Clarke,DJ Hussey,24,2,v Australia,Ahmedabad,24 Mar 2011,ODI # 3143,Virat Kohli,right_arm_spin,ODI
+244,caught,TM Dilshan,TM Dilshan,35,2,v Sri Lanka,Mumbai,2 Apr 2011,ODI # 3148,Virat Kohli,right_arm_spin,ODI
+245,caught,KA Pollard,D Bishoo,81,2,v West Indies,Port of Spain,8 Jun 2011,ODI # 3160,Virat Kohli,right_arm_spin,ODI
+246,stumped,CS Baugh,A Martin,22,2,v West Indies,North Sound,13 Jun 2011,ODI # 3162,Virat Kohli,right_arm_spin,ODI
+247,caught,IR Bell,GP Swann,9,1,v England,Southampton,6 Sep 2011,ODI # 3187,Virat Kohli,right_arm_spin,ODI
+248,caught,C Kieswetter,GP Swann,16,1,v England,Lord's,11 Sep 2011,ODI # 3191,Virat Kohli,right_arm_spin,ODI
+249,hit wicket,,GP Swann,107,1,v England,Cardiff,16 Sep 2011,ODI # 3195,Virat Kohli,right_arm_spin,ODI
+250,lbw,,GP Swann,35,2,v England,Mohali,20 Oct 2011,ODI # 3205,Virat Kohli,right_arm_spin,ODI
+251,lbw,,SP Narine,20,2,v West Indies,Ahmedabad,5 Dec 2011,ODI # 3221,Virat Kohli,right_arm_spin,ODI
+252,caught,MN Samuels,A Martin,80,1,v West Indies,Chennai,11 Dec 2011,ODI # 3224,Virat Kohli,right_arm_spin,ODI
+253,caught,JC Tredwell,JC Tredwell,26,2,v England,Mohali,23 Jan 2013,ODI # 3327,Virat Kohli,right_arm_spin,ODI
+254,bowled,,SP Narine,22,2,v West Indies,The Oval,11 Jun 2013,ODI # 3368,Virat Kohli,right_arm_spin,ODI
+255,caught,V Sibanda,P Utseya,115,2,v Zimbabwe,Harare,24 Jul 2013,ODI # 3395,Virat Kohli,right_arm_spin,ODI
+256,caught,BJ Haddin,GJ Maxwell,68,1,v Australia,Mohali,19 Oct 2013,ODI # 3421,Virat Kohli,right_arm_spin,ODI
+257,caught,PF Younghusband (sub),NL McCullum,82,2,v New Zealand,Wellington,31 Jan 2014,ODI # 3467,Virat Kohli,right_arm_spin,ODI
+258,bowled,,BAW Mendis,48,1,v Sri Lanka,Fatullah,28 Feb 2014,ODI # 3476,Virat Kohli,right_arm_spin,ODI
+259,caught,NLTC Perera,S Randiv,22,1,v Sri Lanka,Cuttack,2 Nov 2014,ODI # 3539,Virat Kohli,right_arm_spin,ODI
+260,caught,S Randiv,S Prasanna,49,2,v Sri Lanka,Ahmedabad,6 Nov 2014,ODI # 3540,Virat Kohli,right_arm_spin,ODI
+261,caught,PLS Gamage,TM Dilshan,53,2,v Sri Lanka,Hyderabad (Deccan),9 Nov 2014,ODI # 3543,Virat Kohli,right_arm_spin,ODI
+262,caught,JE Root,MM Ali,8,1,v England,Perth,30 Jan 2015,ODI # 3595,Virat Kohli,right_arm_spin,ODI
+263,caught,F du Plessis,Imran Tahir,46,1,v South Africa,Melbourne,22 Feb 2015,ODI # 3610,Virat Kohli,right_arm_spin,ODI
+264,bowled,,Sikandar Raza,38,2,v Zimbabwe,Auckland,14 Mar 2015,ODI # 3636,Virat Kohli,right_arm_spin,ODI
+265,lbw,,Nasir Hossain,23,1,v Bangladesh,Dhaka,21 Jun 2015,ODI # 3660,Virat Kohli,right_arm_spin,ODI
+266,caught,BJ Watling,IS Sodhi,45,2,v New Zealand,Ranchi,26 Oct 2016,ODI # 3799,Virat Kohli,right_arm_spin,ODI
+267,caught,MJ Guptill,IS Sodhi,65,1,v New Zealand,Visakhapatnam,29 Oct 2016,ODI # 3800,Virat Kohli,right_arm_spin,ODI
+268,bowled,,A Dananjaya,4,2,v Sri Lanka,Pallekele,24 Aug 2017,ODI # 3906,Virat Kohli,right_arm_spin,ODI
+269,caught,MP Stoinis,A Zampa,39,2,v Australia,Nagpur,1 Oct 2017,ODI # 3919,Virat Kohli,right_arm_spin,ODI
+270,stumped,JC Buttler,AU Rashid,75,2,v England,Nottingham,12 Jul 2018,ODI # 4014,Virat Kohli,right_arm_spin,ODI
+271,lbw,,MM Ali,45,2,v England,Lord's,14 Jul 2018,ODI # 4016,Virat Kohli,right_arm_spin,ODI
+272,bowled,,AU Rashid,71,1,v England,Leeds,17 Jul 2018,ODI # 4018,Virat Kohli,right_arm_spin,ODI
+273,stumped,SD Hope,D Bishoo,140,2,v West Indies,Guwahati,21 Oct 2018,ODI # 4056,Virat Kohli,right_arm_spin,ODI
+274,bowled,,MN Samuels,107,2,v West Indies,Pune,27 Oct 2018,ODI # 4062,Virat Kohli,right_arm_spin,ODI
+275,lbw,,A Zampa,44,2,v Australia,Hyderabad (Deccan),2 Mar 2019,ODI # 4102,Virat Kohli,right_arm_spin,ODI
+276,bowled,,A Zampa,123,2,v Australia,Ranchi,8 Mar 2019,ODI # 4109,Virat Kohli,right_arm_spin,ODI
+277,caught,Rahmat Shah,Mohammad Nabi,67,1,v Afghanistan,Southampton,22 Jun 2019,ODI # 4169,Virat Kohli,right_arm_spin,ODI
+278,caught,A Zampa,A Zampa,16,1,v Australia,Mumbai,14 Jan 2020,ODI # 4231,Virat Kohli,right_arm_spin,ODI
+279,caught,MA Starc,A Zampa,78,1,v Australia,Rajkot,17 Jan 2020,ODI # 4232,Virat Kohli,right_arm_spin,ODI
+280,bowled,,IS Sodhi,51,1,v New Zealand,Hamilton,5 Feb 2020,ODI # 4235,Virat Kohli,right_arm_spin,ODI
+281,caught,CK Kapugedera,T Thushara,37,2,v Sri Lanka,Dambulla,20 Aug 2008,ODI # 2745,Virat Kohli,left_arm_pace,ODI
+282,bowled,,T Thushara,54,1,v Sri Lanka,Colombo (RPS),27 Aug 2008,ODI # 2755,Virat Kohli,left_arm_pace,ODI
+283,caught,GA Manou,DE Bollinger,10,2,v Australia,Mohali,2 Nov 2009,ODI # 2919,Virat Kohli,left_arm_pace,ODI
+284,bowled,,UWMBCA Welegedara,27,1,v Sri Lanka,Rajkot,15 Dec 2009,ODI # 2932,Virat Kohli,left_arm_pace,ODI
+285,caught,KC Sangakkara,UWMBCA Welegedara,9,1,v Sri Lanka,Dhaka,5 Jan 2010,ODI # 2938,Virat Kohli,left_arm_pace,ODI
+286,caught,KC Sangakkara,UWMBCA Welegedara,2,1,v Sri Lanka,Dhaka,13 Jan 2010,ODI # 2943,Virat Kohli,left_arm_pace,ODI
+287,caught,BMAJ Mendis,T Thushara,68,1,v Sri Lanka,Harare,5 Jun 2010,ODI # 2988,Virat Kohli,left_arm_pace,ODI
+288,caught,JM How,AJ McKay,105,1,v New Zealand,Guwahati,28 Nov 2010,ODI # 3070,Virat Kohli,left_arm_pace,ODI
+289,caught,LRPL Taylor,AJ McKay,64,2,v New Zealand,Jaipur,1 Dec 2010,ODI # 3072,Virat Kohli,left_arm_pace,ODI
+290,caught,KD Mills,AJ McKay,0,2,v New Zealand,Bengaluru,7 Dec 2010,ODI # 3076,Virat Kohli,left_arm_pace,ODI
+291,caught,Umar Akmal,Wahab Riaz,9,1,v Pakistan,Mohali,30 Mar 2011,ODI # 3147,Virat Kohli,left_arm_pace,ODI
+292,bowled,,Junaid Khan,0,1,v Pakistan,Chennai,30 Dec 2012,ODI # 3314,Virat Kohli,left_arm_pace,ODI
+293,caught,Kamran Akmal,Junaid Khan,6,2,v Pakistan,Kolkata,3 Jan 2013,ODI # 3315,Virat Kohli,left_arm_pace,ODI
+294,caught,Younis Khan,Junaid Khan,7,1,v Pakistan,Delhi,6 Jan 2013,ODI # 3316,Virat Kohli,left_arm_pace,ODI
+295,caught,HM Amla,LL Tsotsobe,31,1,v South Africa,Cardiff,6 Jun 2013,ODI # 3363,Virat Kohli,left_arm_pace,ODI
+296,caught,Q de Kock,LL Tsotsobe,0,2,v South Africa,Durban,8 Dec 2013,ODI # 3443,Virat Kohli,left_arm_pace,ODI
+297,caught,JD Ryder,MJ McClenaghan,123,2,v New Zealand,Napier,19 Jan 2014,ODI # 3456,Virat Kohli,left_arm_pace,ODI
+298,caught,GJ Bailey,JP Faulkner,9,1,v Australia,Melbourne,18 Jan 2015,ODI # 3582,Virat Kohli,left_arm_pace,ODI
+299,caught,BJ Haddin,MG Johnson,1,2,v Australia,Sydney,26 Mar 2015,ODI # 3645,Virat Kohli,left_arm_pace,ODI
+300,caught,AJ Finch,JP Faulkner,91,1,v Australia,Perth,12 Jan 2016,ODI # 3723,Virat Kohli,left_arm_pace,ODI
+301,caught,Shadab Khan,Mohammad Amir,5,2,v Pakistan,The Oval,18 Jun 2017,ODI # 3894,Virat Kohli,left_arm_pace,ODI
+302,caught,PVD Chameera,MVT Fernando,3,2,v Sri Lanka,Pallekele,27 Aug 2017,ODI # 3907,Virat Kohli,left_arm_pace,ODI
+303,caught,IS Sodhi,TA Boult,43,1,v New Zealand,Mount Maunganui,26 Jan 2019,ODI # 4085,Virat Kohli,left_arm_pace,ODI
+304,caught,HM Nicholls,TA Boult,60,2,v New Zealand,Mount Maunganui,28 Jan 2019,ODI # 4088,Virat Kohli,left_arm_pace,ODI
+305,caught,Sarfaraz Ahmed,Mohammad Amir,77,1,v Pakistan,Manchester,16 Jun 2019,ODI # 4161,Virat Kohli,left_arm_pace,ODI
+306,caught,Rubel Hossain,Mustafizur Rahman,26,1,v Bangladesh,Birmingham,2 Jul 2019,ODI # 4182,Virat Kohli,left_arm_pace,ODI
+307,lbw,,TA Boult,1,2,v New Zealand,Manchester,9 Jul 2019,ODI # 4190,Virat Kohli,left_arm_pace,ODI
+308,bowled,,SS Cottrell,4,1,v West Indies,Chennai,15 Dec 2019,ODI # 4221,Virat Kohli,left_arm_pace,ODI
+309,caught,SR Watson,AC Voges,30,2,v Australia,Vadodara,25 Oct 2009,ODI # 2913,Virat Kohli,left_arm_spin,ODI
+310,caught,Shakib Al Hasan,Shakib Al Hasan,91,2,v Bangladesh,Dhaka,7 Jan 2010,ODI # 2939,Virat Kohli,left_arm_spin,ODI
+311,stumped,Mushfiqur Rahim,Shakib Al Hasan,11,2,v Bangladesh,Dambulla,16 Jun 2010,ODI # 2993,Virat Kohli,left_arm_spin,ODI
+312,caught,LRPL Taylor,DL Vettori,2,2,v New Zealand,Chennai,10 Dec 2010,ODI # 3077,Virat Kohli,left_arm_spin,ODI
+313,caught,RJ Peterson,RJ Peterson,1,1,v South Africa,Nagpur,12 Mar 2011,ODI # 3128,Virat Kohli,left_arm_spin,ODI
+314,bowled,,SR Patel,55,1,v England,Chester-le-Street,3 Sep 2011,ODI # 3186,Virat Kohli,left_arm_spin,ODI
+315,caught,KP Pietersen,SR Patel,37,1,v England,Hyderabad (Deccan),14 Oct 2011,ODI # 3199,Virat Kohli,left_arm_spin,ODI
+316,bowled,,Abdur Razzak,66,1,v Bangladesh,Dhaka,16 Mar 2012,ODI # 3261,Virat Kohli,left_arm_spin,ODI
+317,caught,HMRKB Herath,HMRKB Herath,38,2,v Sri Lanka,Colombo (RPS),28 Jul 2012,ODI # 3293,Virat Kohli,left_arm_spin,ODI
+318,lbw,,HMRKB Herath,31,1,v Sri Lanka,Port of Spain,9 Jul 2013,ODI # 3387,Virat Kohli,left_arm_spin,ODI
+319,bowled,,Shakib Al Hasan,25,1,v Bangladesh,Dhaka,24 Jun 2015,ODI # 3661,Virat Kohli,left_arm_spin,ODI
+320,caught,L Ronchi,MJ Santner,9,2,v New Zealand,Delhi,20 Oct 2016,ODI # 3797,Virat Kohli,left_arm_spin,ODI
+321,caught,AJ Finch,AC Agar,28,2,v Australia,Indore,24 Sep 2017,ODI # 3914,Virat Kohli,left_arm_spin,ODI
+322,caught,DP Hyatt,DJG Sammy,14,1,v West Indies,Port of Spain,4 Jun 2011,T20I # 200,Virat Kohli,right_arm_pace,T20
+323,caught,C Kieswetter,SCJ Broad,4,1,v England,Manchester,31 Aug 2011,T20I # 204,Virat Kohli,right_arm_pace,T20
+324,caught,AD Hales,TT Bresnan,15,1,v England,Kolkata,29 Oct 2011,T20I # 214,Virat Kohli,right_arm_pace,T20
+325,caught,MS Wade,MR Marsh,31,2,v Australia,Melbourne,3 Feb 2012,T20I # 218,Virat Kohli,right_arm_pace,T20
+326,caught,HDRL Thirimanne,RMS Eranga,68,1,v Sri Lanka,Pallekele,7 Aug 2012,T20I # 255,Virat Kohli,right_arm_pace,T20
+327,caught,Mohammad Nabi,Dawlat Zadran,50,1,v Afghanistan,Colombo (RPS),19 Sep 2012,T20I # 265,Virat Kohli,right_arm_pace,T20
+328,caught,DT Christian,PJ Cummins,15,1,v Australia,Colombo (RPS),28 Sep 2012,T20I # 278,Virat Kohli,right_arm_pace,T20
+329,caught,AB de Villiers,JH Kallis,2,1,v South Africa,Colombo (RPS),2 Oct 2012,T20I # 286,Virat Kohli,right_arm_pace,T20
+330,bowled,,SC Meaker,21,2,v England,Pune,20 Dec 2012,T20I # 292,Virat Kohli,right_arm_pace,T20
+331,lbw,,SC Meaker,38,1,v England,Mumbai,22 Dec 2012,T20I # 294,Virat Kohli,right_arm_pace,T20
+332,caught,JP Faulkner,CJ McKay,29,2,v Australia,Rajkot,10 Oct 2013,T20I # 331,Virat Kohli,right_arm_pace,T20
+333,bowled,,AD Russell,54,2,v West Indies,Dhaka,23 Mar 2014,T20I # 382,Virat Kohli,right_arm_pace,T20
+334,caught,AD Hales,ST Finn,66,2,v England,Birmingham,7 Sep 2014,T20I # 405,Virat Kohli,right_arm_pace,T20
+335,caught,JP Duminy,KJ Abbott,43,1,v South Africa,Dharamsala,2 Oct 2015,T20I # 456,Virat Kohli,right_arm_pace,T20
+336,caught,Mahmudullah,Mashrafe Mortaza,7,1,v Bangladesh,Dhaka,24 Feb 2016,T20I # 509,Virat Kohli,right_arm_pace,T20
+337,lbw,,Mohammad Sami,49,2,v Pakistan,Dhaka,27 Feb 2016,T20I # 512,Virat Kohli,right_arm_pace,T20
+338,caught,ADS Fletcher,DJ Bravo,16,2,v West Indies,Lauderhill,27 Aug 2016,T20I # 562,Virat Kohli,right_arm_pace,T20
+339,caught,LA Dawson,CJ Jordan,21,1,v England,Nagpur,29 Jan 2017,T20I # 593,Virat Kohli,right_arm_pace,T20
+340,caught,SP Narine,KOK Williams,39,1,v West Indies,Kingston,9 Jul 2017,T20I # 617,Virat Kohli,right_arm_pace,T20
+341,caught,H Klaasen,CJ Dala,1,1,v South Africa,Centurion,21 Feb 2018,T20I # 654,Virat Kohli,right_arm_pace,T20
+342,caught,SR Thompson,PKD Chase,0,1,v Ireland,Dublin (Malahide),27 Jun 2018,T20I # 678,Virat Kohli,right_arm_pace,T20
+343,caught,GH Dockrell,PKD Chase,9,1,v Ireland,Dublin (Malahide),29 Jun 2018,T20I # 680,Virat Kohli,right_arm_pace,T20
+344,caught,CJ Jordan,CJ Jordan,43,2,v England,Bristol,8 Jul 2018,T20I # 690,Virat Kohli,right_arm_pace,T20
+345,caught,E Lewis,O Thomas,59,2,v West Indies,Providence,6 Aug 2019,T20I # 846,Virat Kohli,right_arm_pace,T20
+346,caught,AL Phehlukwayo,K Rabada,9,1,v South Africa,Bengaluru,22 Sep 2019,T20I # 893,Virat Kohli,right_arm_pace,T20
+347,caught,LMP Simmons,KOK Williams,19,1,v West Indies,Thiruvananthapuram,8 Dec 2019,T20I # 1022,Virat Kohli,right_arm_pace,T20
+348,caught,MJ Guptill,BM Tickner,45,2,v New Zealand,Auckland,24 Jan 2020,T20I # 1031,Virat Kohli,right_arm_pace,T20
+349,caught,TL Seifert,TG Southee,11,2,v New Zealand,Auckland,26 Jan 2020,T20I # 1034,Virat Kohli,right_arm_pace,T20
+350,caught,TG Southee,HK Bennett,38,1,v New Zealand,Hamilton,29 Jan 2020,T20I # 1035,Virat Kohli,right_arm_pace,T20
+351,caught,MJ Santner,HK Bennett,11,1,v New Zealand,Wellington,31 Jan 2020,T20I # 1036,Virat Kohli,right_arm_pace,T20
+352,bowled,,J Botha,28,1,v South Africa,Durban,9 Jan 2011,T20I # 196,Virat Kohli,right_arm_spin,T20
+353,caught,JM Bairstow,GP Swann,40,1,v England,Colombo (RPS),23 Sep 2012,T20I # 272,Virat Kohli,right_arm_spin,T20
+354,caught,CL White,JM Muirhead,23,1,v Australia,Dhaka,30 Mar 2014,T20I # 393,Virat Kohli,right_arm_spin,T20
+355,bowled,,CJ Boyce,50,2,v Australia,Sydney,31 Jan 2016,T20I # 489,Virat Kohli,right_arm_spin,T20
+356,caught,L Ronchi,IS Sodhi,23,2,v New Zealand,Nagpur,15 Mar 2016,T20I # 535,Virat Kohli,right_arm_spin,T20
+357,bowled,,Shuvagata Hom,24,1,v Bangladesh,Bengaluru,23 Mar 2016,T20I # 547,Virat Kohli,right_arm_spin,T20
+358,caught,EJG Morgan,MM Ali,29,1,v England,Kanpur,26 Jan 2017,T20I # 592,Virat Kohli,right_arm_spin,T20
+359,caught,TA Boult,IS Sodhi,13,1,v New Zealand,Thiruvananthapuram,7 Nov 2017,T20I # 632,Virat Kohli,right_arm_spin,T20
+360,caught,CA Lynn,A Zampa,4,2,v Australia,Brisbane,21 Nov 2018,T20I # 712,Virat Kohli,right_arm_spin,T20
+361,caught,NM Coulter-Nile,A Zampa,24,1,v Australia,Visakhapatnam,24 Feb 2019,T20I # 748,Virat Kohli,right_arm_spin,T20
+362,caught,TG Southee (sub),JEC Franklin,70,2,v New Zealand,Chennai,11 Sep 2012,T20I # 261,Virat Kohli,left_arm_pace,T20
+363,caught,Kamran Akmal,Mohammad Irfan,9,1,v Pakistan,Bengaluru,25 Dec 2012,T20I # 296,Virat Kohli,left_arm_pace,T20
+364,caught,MD Shanaka,I Udana,82,2,v Sri Lanka,Colombo (RPS),6 Sep 2017,T20I # 618,Virat Kohli,left_arm_pace,T20
+365,caught,JP Behrendorff,JP Behrendorff,0,1,v Australia,Guwahati,10 Oct 2017,T20I # 624,Virat Kohli,left_arm_pace,T20
+366,caught,JE Root,DJ Willey,47,1,v England,Cardiff,6 Jul 2018,T20I # 688,Virat Kohli,left_arm_pace,T20
+367,caught,KA Pollard,SS Cottrell,19,2,v West Indies,Lauderhill,3 Aug 2019,T20I # 842,Virat Kohli,left_arm_pace,T20
+368,bowled,,SS Cottrell,28,1,v West Indies,Lauderhill,4 Aug 2019,T20I # 843,Virat Kohli,left_arm_pace,T20
+369,caught,DA Warner,GB Hogg,22,2,v Australia,Sydney,1 Feb 2012,T20I # 217,Virat Kohli,left_arm_spin,T20
+370,caught,GD Phillips,MJ Santner,65,2,v New Zealand,Rajkot,4 Nov 2017,T20I # 631,Virat Kohli,left_arm_spin,T20
+371,lbw,,T Shamsi,26,1,v South Africa,Johannesburg,18 Feb 2018,T20I # 652,Virat Kohli,left_arm_spin,T20
